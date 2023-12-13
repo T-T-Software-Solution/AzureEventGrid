@@ -15,3 +15,11 @@ https://medium.com/t-t-software-solution/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0
 # Postman Files
 - [Collection](./Postman/Blog%20-%20Azure%20Event%20Grid.postman_collection.json)
 - [Environment](./Postman/Blog%20-%20Azure%20Event%20Grid.postman_environment.json)
+
+# References
+- [Microsoft Learn: Introduction to cloud-native applications](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction)
+- [Microsoft Learn: Choose a messaging model in Azure to loosely connect your services](https://learn.microsoft.com/en-us/training/modules/choose-a-messaging-model-in-azure-to-connect-your-services/)
+- [Microsoft Learn: Receive events to an HTTP endpoint
+](https://docs.microsoft.com/th-th/azure/event-grid/receive-events )
+- [Somkiat.cc: MICROSERVICE-2023-DESIGN](https://github.com/up1/course_microservices-3-days/blob/master/slide/MICROSERVICE-2023-DESIGN.pdf)
+- [Slalom Technology: Azure Messaging: When to use What and Why?](https://medium.com/slalom-technology/azure-messaging-when-to-use-what-and-why-post-3-8a914ec74822)
