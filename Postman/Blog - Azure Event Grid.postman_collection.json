@@ -1,8 +1,9 @@
 {
 	"info": {
-		"_postman_id": "62ee6106-5125-4cc7-9f11-1db5f8d4180f",
+		"_postman_id": "7af73ca5-0c90-4130-95ee-74a52e124ae7",
 		"name": "Blog - Azure Event Grid",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26015933"
 	},
 	"item": [
 		{
@@ -52,10 +53,12 @@
 								}
 							}
 						},
-						"url": null
+						"url": {
+							"raw": ""
+						}
 					},
-					"_postman_previewlanguage": null,
-					"header": null,
+					"_postman_previewlanguage": "Text",
+					"header": [],
 					"cookie": [],
 					"body": "{ \"validationResponse\": \"512d38b6-c7b8-40c8-89fe-f46f9e9622b6\" }"
 				}
@@ -107,7 +110,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "[\n    {\n        \"id\": \"a9ad9c8f-ba2f-4e56-bf97-80adc0e64bec\",\n        \"eventType\": \"recordInserted\",\n        \"subject\": \"myapp/vehicles/motorcycles\",\n        \"eventTime\": \"2021-05-26T10:00:00.000Z\",\n        \"data\": {\n            \"make\": \"Ducati\",\n            \"model\": \"Monster\"\n        },\n        \"dataVersion\": \"1.0\"\n    }\n]",
+					"raw": "[\n    {\n        \"id\": \"a9ad9c8f-ba2f-4e56-bf97-80adc0e64bec\",\n        \"eventType\": \"recordInserted\",\n        \"subject\": \"myapp/vehicles/motorcycles\",\n        \"eventTime\": \"2023-12-13T10:00:00.000Z\",\n        \"data\": {\n            \"make\": \"Ducati\",\n            \"model\": \"Monster\"\n        },\n        \"dataVersion\": \"1.0\"\n    }\n]",
 					"options": {
 						"raw": {
 							"language": "json"
