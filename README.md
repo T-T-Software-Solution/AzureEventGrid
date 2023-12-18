@@ -1,6 +1,8 @@
 # Event-Driven Architectures with Azure Event Grid
 แนวทางการพัฒนา Event-Driven Architectures เพื่อเชื่อมต่อข้อมูลได้จากหลากหลายแหล่งข้อมูล และตัวอย่างการพัฒนาด้วย Azure Event Grid (Custom Topic, Web Hooks)
 
+![](./Images/Banner.jpg)
+
 ![](./Images/EventGrid.jpg)
 
 # Slide
